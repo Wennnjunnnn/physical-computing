@@ -13,6 +13,7 @@ float easingAmount;
 void setup() {
   currentValue = 0;
   easingAmount = .225;
+  
   Serial.begin(9600);
 
   pinMode(PIN_TRIG, OUTPUT);  
