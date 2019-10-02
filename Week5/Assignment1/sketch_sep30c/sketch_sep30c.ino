@@ -1,9 +1,10 @@
 /*
-   This sketch was Modified by the fisrt example
+   This sketch was Modified by the fisrt easing code example
    created by Phillip David Stearns
    for Phsical Computing Week 5 class.
    https://github.com/phillipdavidstearns/PGTE_5585_F2019/blob/master/notes/week5/arduino/easing/easing.ino
 */
+
 #define LED_PIN 3
 #define PIN_TRIG 12
 #define PIN_ECHO 11
