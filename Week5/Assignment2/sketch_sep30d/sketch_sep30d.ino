@@ -1,5 +1,5 @@
 /*
-   This sketch was Modified by the second easing code example
+   This sketch was modified by the second easing code example
    created by Phillip David Stearns
    for Phsical Computing Week 5 class.
    https://github.com/phillipdavidstearns/PGTE_5585_F2019/blob/master/notes/week5/arduino/easing/easing.ino
