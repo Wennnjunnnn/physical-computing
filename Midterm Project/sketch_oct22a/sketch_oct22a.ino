@@ -59,7 +59,4 @@ void loop() {
       Serial.println(flag1);
     }
   }
-//   Serial.println(digitalRead(buttonPin));
-//   Serial.println(flag);
-
 }
