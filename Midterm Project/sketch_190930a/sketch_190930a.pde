@@ -15,7 +15,7 @@ float myVal;
 
 
 void setup() {
-  size(10, 10);
+  size(20, 20);
   background(0);
 
   String myPort = Serial.list()[1];
